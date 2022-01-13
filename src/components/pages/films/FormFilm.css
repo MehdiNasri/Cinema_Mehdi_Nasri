@@ -1,0 +1,14 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5em;
+    
+}
+
+h3{
+    margin-top: 2em;
+}
+button{
+    margin-top: 2em;
+}

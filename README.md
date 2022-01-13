@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Starter pack
+
+pour les dépendances:
+npm i
+
+## Material UI
+
+Installez Material Ui pour le rendu graphique
+
+// with npm
+npm install @mui/material @emotion/react @emotion/styled
+
+// with yarn
+yarn add @mui/material @emotion/react @emotion/styled
+
 ## Available Scripts
 
 In the project directory, you can run:
